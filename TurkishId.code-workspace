@@ -7,15 +7,6 @@
 	"settings": {
 		"files.exclude": {
 			"_NCrunch*": true
-        },
-        "files.autoSave": "onWindowChange"
-	},
-	"launch": {
-		"version": "0.2.0",
-		"configurations": [
-
-
-
-		]
+		}
 	}
 }
